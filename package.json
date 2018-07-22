@@ -1,0 +1,14 @@
+{
+  "name": "generator-dvmodule",
+  "version": "0.1.0",
+  "description": "Generate a module. Uses: TypeScript, TSLint , and Prettier.",
+  "keywords": ["yeoman-generator", "TypeScript", "TSLint", "Prettier"],
+  "files": [
+    "app"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan Vann <dylan@dylanvann.com>",
+  "license": "MIT"
+}
